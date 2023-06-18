@@ -21,7 +21,7 @@ dj-database-url
 tiktoken
 #git+https://github.com/qkral/pyfpdf.git
 langchain==0.0.124
-openai==0.27.0
+openai==0.27.8
 faiss-cpu
 fpdf2
 pylatexenc
